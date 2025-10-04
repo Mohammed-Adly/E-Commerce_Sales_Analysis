@@ -3,7 +3,7 @@
 ## Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Image.png)
 
-## Problem
+## Problem 
 The company needs a comprehensive analysis of e-commerce sales and returns across products, countries, and time to support data-driven decision-making.
 
 ## Data
@@ -40,3 +40,4 @@ Based on the analysis, the following key insights were identified:
     -   **Recommendation:** Ensure optimal stock levels for best-selling items. Consider promotional bundles to increase the sales of less popular products.
 -   **Return Rate Analysis:** The dashboard provides a clear view of the return rate.
     -   **Recommendation:** Continuously monitor the return rate. If it increases, perform a deeper analysis to identify the products or reasons associated with high returns to improve product quality or descriptions.
+
